@@ -6,7 +6,7 @@
 
 ## 🔁 Diagrama de Azure
 ![Esquema_arquitectura](https://user-images.githubusercontent.com/86899287/127764553-a96f7f90-afc3-4084-83c3-094033e7e340.png)
-<img width="773" alt="image" src="https://user-images.githubusercontent.com/86899287/127764775-0b225eb8-1b27-4539-8a70-ab9e63de5762.png">
+<img width="1073" alt="image" src="https://user-images.githubusercontent.com/86899287/127776444-a5ba0156-56c3-4a3a-872d-7862e30b2302.png">
 
 
 ## ％ SLA Compuesto

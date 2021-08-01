@@ -28,7 +28,7 @@
 <img width="562" alt="image" src="https://user-images.githubusercontent.com/86899287/127775506-288b738c-0c8f-4a52-81b2-67aa3898fc3b.png">
 
 ## 💭 Qué les pareció el evento
-¡Este viaje ha sido una experiencia increíble! Desde cantar hasta programar, el aprendizaje es opulento, y la motivación para seguir adelante no se puede medir. Este proyecto sirvió, dentro de infinitas cosas, para saber identificar las herramientas de Azure en nuestro beneficio como en el de la sociedad. Fue gratificante la experiencia ya que nadie en el equipo había participado en un Viaje, ni en un Hackathon. ¡A pesar del corto tiempo pudimos realizar un gran proyecto! Indudablemente fue una experiencia inolvidable y una manera muy práctica de aplicar lo aprendido, además de reforzar nuestros conocimientos.
+¡Este viaje ha sido una experiencia increíble! Desde cantar hasta programar, el aprendizaje es opulento, y la motivación para seguir adelante no se puede medir. Este proyecto sirvió, dentro de infinitas cosas, para saber identificar las herramientas de Azure en nuestro beneficio como en el de la sociedad. Fue gratificante la experiencia ya que nadie en el equipo había participado en un Viaje, ni en un Hackathon. ¡A pesar del corto tiempo pudimos realizar un gran proyecto! Indudablemente fue una experiencia inolvidable y una manera muy práctica de aplicar lo aprendido, además de reforzar nuestros conocimientos. Propusimos la mejor soluoción a diferentes problemas, forzándonos a desarrollar esa creatividad que llevamos dentro mientras unimos lazos con nuestros compañeros de diferentes carreras y partes de Mexico. 🇲🇽
 
 
 

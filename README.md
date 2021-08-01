@@ -20,12 +20,14 @@
 <img width="997" alt="image" src="https://user-images.githubusercontent.com/86899287/127765074-d10763b2-2713-4cbc-bb0e-9a801ef2dec5.png">
 <img width="985" alt="image" src="https://user-images.githubusercontent.com/86899287/127765084-69d784a8-ebba-40ef-a967-1e8fe526e1da.png">
 
+
 ## 💰 Precio Total por mes
 <img width="1047" alt="image" src="https://user-images.githubusercontent.com/86899287/127765453-b0a54b34-24ca-48a9-83db-ea16618edef4.png">
 
 
 ## ⏳ Tiempo sin disponibilidad a un año
-<img width="562" alt="image" src="https://user-images.githubusercontent.com/86899287/127775506-288b738c-0c8f-4a52-81b2-67aa3898fc3b.png">
+<img width="997" alt="image" src="https://user-images.githubusercontent.com/86899287/127776959-7276fbf9-0eb4-4d5d-9834-d6b1d1c2ccac.png">
+
 
 ## 💭 Qué les pareció el evento
 ¡Este viaje ha sido una experiencia increíble! Desde cantar hasta programar, el aprendizaje es opulento, y la motivación para seguir adelante no se puede medir. Este proyecto sirvió, dentro de infinitas cosas, para saber identificar las herramientas de Azure en nuestro beneficio como en el de la sociedad. Fue gratificante la experiencia ya que nadie en el equipo había participado en un Viaje, ni en un Hackathon. ¡A pesar del corto tiempo pudimos realizar un gran proyecto! Indudablemente fue una experiencia inolvidable y una manera muy práctica de aplicar lo aprendido, además de reforzar nuestros conocimientos. Propusimos la mejor soluoción a diferentes problemas, forzándonos a desarrollar esa creatividad que llevamos dentro mientras unimos lazos con nuestros compañeros de diferentes carreras y partes de Mexico. 🇲🇽
